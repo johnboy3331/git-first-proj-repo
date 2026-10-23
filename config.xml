@@ -1,3 +1,7 @@
 set font=20;
 set size=14;
 set color=blue;
+
+
+#security part 
+set securityLog=authencation;
